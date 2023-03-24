@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Aarthi</title>
+		<title>About Aarthi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -17,35 +17,40 @@
 		<!-- Wrapper -->
 			<div id="wrapper">
 			<ul class="actions special">
-								<li><a href="index.html" class="button">Home </a></li>
+							    <li><a href="index.html" class="button">Home </a></li>
 								<li><a href="about.html" class="button">About Me</a></li>
-								<li><a href="timeline.html" class="button">Timeline</a></li>
+								<li><a href="timeline.html" class="button">Experience</a></li>
 							</ul>
 
 				<!-- Main -->
 					<section id="main">
-						<header>
-							<span class="avatar"><img src="images/aarthi.jpg" alt="" /></span>
-							<h1>Aarthi GK</h1>
-							<h2>Senior Software Test Automation Engineer,</h2>
-							<h2><b>EPAM Systems</b></h2>
-							
-						</header>
 						<div class="bg-img">
+											
+						<hr />
+						<h2>About Me!</h2>
+						<h3>
+						Tech Enthusiast. Expertise in Test Automation Tools related to UI and APIs. 
+						ISTQB and CSM certified. Pursuing Cloud based learning and certificates.
+						Helped multiple clients in Banking and Telecommunication domain by solving complex testing requirements.
+						</h3>
+				
+						<hr />
 						
-							<footer>
+						<footer>
+					
 							<ul class="icons">
 								<li><a href="https://www.linkedin.com/in/aarthigk/" class="icon brands fa-linkedin">Linkedin</a></li>
 								<li><a href="mailto:cse.snippet@gmail.com" class="icon brands fa-google">Gmail</a></li>
 								<li><a href="https://github.com/aarthigk" class="icon brands fa-github">Github</a></li>
-							</ul>
+		
+						</ul>
 						</footer>
 					</section>
 
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="copyright">
-							<li>&copy; Aarthi GK</li><li>Design: <a href="https://html5up.net">HTML5UP</a></li>
+						<li>&copy; Aarthi GK</li><li>Design: <a href="https://html5up.net">HTML5UP</a></li>
 						</ul>
 					</footer>
 
